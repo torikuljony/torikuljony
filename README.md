@@ -41,6 +41,8 @@
 
 ###
 
-<p data-importer="text" align="left">Thanks for visiting my profile! Feel free to check out my repositories. 😊</p>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thanks%20for%20visiting%20my%20profile!%20Feel%20free%20to%20check%20out%20my%20repositories.%20%F0%9F%98%8A&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
 ###
