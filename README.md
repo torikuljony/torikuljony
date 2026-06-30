@@ -1,18 +1,18 @@
+###
 
-
-<h1 data-importer="text" align="left"> Hi 👋, I'm Torikul Islam!</h1>
+<h1 data-importer="text" align="center"> Assalamu alaikum👋, I'm Torikul Islam!</h1>
 
 ###
 
-<h3 data-importer="text" align="left">🚀 About Me<br> <br>I'm a passionate MERN Stack Developer who loves building modern, responsive, and visually stunning web applications. I focus on creating clean code and smooth user experiences.</h3>
+<h2 data-importer="text" align="left">🚀 About Me<br> <br>I'm a passionate MERN Stack Developer who loves building modern, responsive, and visually stunning web applications. I focus on creating clean code and smooth user experiences.</h2>
 
 ###
 
-<p data-importer="text" align="left">🛠️ Tech Stack<br><br>Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS<br>Backend: Node.js, Express.js<br>Database & BaaS: MongoDB, Firebase<br>Tools & Platforms: Git, GitHub, Vercel<br><br>📈 What I'm Working On<br><br>💻 Developing full-stack web applications.<br>🌐 Building new and innovative websites.<br>📚 Constantly learning new web technologies.<br><br>🤝 Connect with Me<br><br>💼 LinkedIn: [https://www.linkedin.com/in/torikul-jony/]<br>🌐 Portfolio: [https://torikuljony.vercel.app/]<br>📧 Email: [torikuljony36@email.com]</p>
+<p data-importer="text" align="left">📈 What I'm Working On<br><br>💻 Developing full-stack web applications.<br>🌐 Building new and innovative websites.<br>📚 Constantly learning new web technologies.<br><br>🤝 Connect with Me<br><br>💼 LinkedIn: [https://www.linkedin.com/in/torikul-jony/]<br>🌐 Portfolio: [https://torikuljony.vercel.app/]<br>📩 Email: [torikuljony36@email.com]<br> 
 
-###
+  <br>🛠️ Tech Stack</p>
 
-<p data-importer="text" align="left">Thanks for visiting my profile! Feel free to check out my repositories. 😊</p>
+
 
 ###
 
@@ -39,3 +39,8 @@
 
 </div>
 
+###
+
+<p data-importer="text" align="left">Thanks for visiting my profile! Feel free to check out my repositories. 😊</p>
+
+###
